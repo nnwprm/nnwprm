@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nnwprm
+- 👀 I’m interested in Python, сomputer engineering, physics, geometry and algebra.
+- 🌱 I’m currently learning all stuff above!
+- 🚫 Currently not interested in collaborations.
+- 📫 Discord: @nnwprm
